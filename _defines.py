@@ -1,0 +1,7 @@
+__author__ = 'sei'
+
+DEFAULT_SERIAL = 'COM20'
+DEFAULT_BAUDRATE = 115200
+
+
+#DEFAULT_SERIAL = '/dev/ttyS0'
